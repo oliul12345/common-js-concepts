@@ -1,1 +1,1 @@
-# JavasCript Common Functions concepts are storage my github repositorys
+# JavasCript Common Functions concepts are storage my github repositories
